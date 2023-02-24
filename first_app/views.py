@@ -18,6 +18,8 @@ def helloWorld(request):
     return Response(data)
 
 
+
+
 @api_view(["GET"])
 def zbir_na_broevi(request):
     broj1 = int(request.GET.get('broj1', 0))
