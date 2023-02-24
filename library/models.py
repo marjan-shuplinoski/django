@@ -47,3 +47,5 @@ class Books(models.Model):
     maticna_kukja = models.CharField(max_length=255)
     kolicina = models.IntegerField()
     dostapni_izdanija = models.IntegerField()
+
+
