@@ -43,3 +43,4 @@ admin.site.register(Passport,PassportAdmin)
 # One 2 One
 # Many 2 Many
 
+# Django ORM  ( Object Relational Mapping )
